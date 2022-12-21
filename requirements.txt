@@ -1,1 +1,2 @@
 networkx[default]~=2.8.8
+sympy~=1.11.1
